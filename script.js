@@ -18,13 +18,9 @@ function typeWriter(text, elementId, speed, callback) {
 
 // Main flow
 document.addEventListener("DOMContentLoaded", () => {
-  const welcomeText = "Welcome ISRA AFZAAL";
+  const welcomeText = "";
   const englishText = "Today is your special day. Made this for you, hope you would like it.";
-  const urduText = `وقت آپ کو خوش رکھے اسراءافضال
-خوشیاں تم پر قربان ہو جائیں اور کبھی تم سے جدانہ ہوسکیں
-میں سجدے میں سر کو جھکاتا اور دعا کرتا ہوں کہ تمہارے نصیب میں کوئی مشکل کوئی غم نہ لکھا جائے
-رحمتوں اور نعمتوں کے دروازے ہمیشہ تم پر کھلے رہے ہیں اس طرح کہ انہیں کبھی بند ہونے کا حکم نہ ہو
-ایک لمبی اور خوشیوں بھری زندگی تمہیں ملے`;
+  const urduText = ``;
 
   const box1 = document.getElementById("box1");
   const box2 = document.getElementById("box2");
